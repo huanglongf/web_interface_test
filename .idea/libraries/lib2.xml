@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/javassist-3.17.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/log4j-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/asm-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/ojdbc14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/mybatis-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/slf4j-log4j12-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/mybatis-generator-core-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/mysql-connector-java-5.1.42-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/log4j-core-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MyBatisReverse/lib/cglib-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

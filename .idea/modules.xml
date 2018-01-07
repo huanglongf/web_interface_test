@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyBatisReverse/MyBatisReverse.iml" filepath="$PROJECT_DIR$/../MyBatisReverse/MyBatisReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_web/first_web.iml" filepath="$PROJECT_DIR$/first_web/first_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_interface_test.iml" filepath="$PROJECT_DIR$/web_interface_test.iml" />
+    </modules>
+  </component>
+</project>
